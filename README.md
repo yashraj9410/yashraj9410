@@ -22,7 +22,7 @@ I am a Web Development Intern at CodeStore Technologies.<br>I'm currently workin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/buzz/memes/memes_everywhere.gif" width="512px"/>
+<img src="[https://api.memegen.link/images/buzz/memes/memes_everywhere.gif](https://api.memegen.link/images/both/width_or_height/why_not_both~q.png?height=450&width=800)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashraj@9410&icon=0&color=0)](https://visitcount.itsvg.in)
