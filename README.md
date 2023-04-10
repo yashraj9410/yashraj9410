@@ -13,7 +13,7 @@ I am a Web Development Intern at CodeStore Technologies.<br>I'm currently workin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj9410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashraj@9410&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yashraj9410&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=notThatYashRaj)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
