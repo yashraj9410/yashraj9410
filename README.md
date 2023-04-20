@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Web Development Intern at CodeStore Technologies.<br>I'm currently working on backend technologies that are JavaScript , TypeScript , node , Express , Mongo , SQL .<br>
+I'm currently working on backend technologies that are JavaScript , TypeScript , node , Express , Mongo , SQL .
 
 
 ## 🌐 Socials:
