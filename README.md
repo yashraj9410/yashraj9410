@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on backend technologies that are JavaScript , TypeScript , node , Express , Mongo , SQL .
-
+Currently working on backend technologies that are JavaScript , TypeScript , node , Express , Mongo , Sequelize , MSSQL , Swagger .
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashraj_6395) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/notThatYashRaj) 
